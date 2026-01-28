@@ -1,3 +1,5 @@
 Options +FollowSymLinks
-RewriteEngine on
-RewriteRule (.*) http://www.ipv6tecnologia.com.br/$1 [R=301,L]
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} !^www\.ipv6tecnologia\.com\.br$ [NC]
+RewriteRule ^(.*)$ https://www.ipv6tecnologia.com.br/$1 [L,R=301]
