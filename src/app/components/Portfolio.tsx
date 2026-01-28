@@ -10,10 +10,10 @@ const projects = [
   },
   {
     id: 2,
-    title: 'Unifatécie',
+    title: 'Unifatecie',
     category: 'Universidades, Escolas e Faculdades',
     image: 'https://6973925ce60b1081978162e2.imgix.net/unifatecie.png',
-    description: 'Gestão e manutenção completa da infraestrutura de rede de todas os polos, incluindo rede Wi-Fi e Fibra Óptica (GPON), controle de acessos, gerenciamento de equipamentos, melhorias para governança de TI e implementação de hotspot, garantindo um ambiente dimensionado, seguro e totalmente gerenciado.'
+    description: 'Gestão e manutenção completa da infraestrutura de rede de todos os polos, incluindo rede Wi-Fi e Fibra Óptica, controle de acessos, gerenciamento de equipamentos, melhorias para governança de TI e implementação de hotspot, garantindo um ambiente dimensionado, seguro e totalmente gerenciado.'
   },
   {
     id: 3,
