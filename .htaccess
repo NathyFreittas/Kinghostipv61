@@ -1,0 +1,3 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule (.*) http://www.ipv6tecnologia.com.br/$1 [R=301,L]
